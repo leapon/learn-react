@@ -1,6 +1,7 @@
 # learn-react
 Learn React
 
+
 # Git Setup
 ```
 git config user.name $GIT_USER_NAME
@@ -12,3 +13,10 @@ git config credential.helper store
 git config --list
 ```
 
+# Start web app
+
+```
+npm install
+npm run build
+npm run start
+```
